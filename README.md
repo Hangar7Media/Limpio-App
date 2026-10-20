@@ -1,5 +1,7 @@
 # Limpio
 
+Este App es mi primer intento por crear un App con ayuda de IA Generativa (Claude). El App funciona bien, lo instalé en mi propio dispositivo. Como prueba considero que esta muy bien. Seguiré trabajando en apps creativas y nuevas, no como esta, que toma ideas de apps ya existentes. Espero que les sirva a todo aquel que quiere un app para limpiar su celular de manera fácil y rápida.
+
 App de Android para limpiar tu galería deslizando fotos:
 
 - **Izquierda** → marcar para eliminar
